@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+tr {
+    background-color: blueviolet;
+    color: azure;
+}
+table {
+    border-radius: 12px;
+    border-color: blue;
+    border-style: inherit;
+    border-width: 5px;
+}
